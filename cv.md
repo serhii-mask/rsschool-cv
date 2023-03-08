@@ -2,14 +2,15 @@
 
 ## Web Developer
 
----
-
 ## Contact information
 
 -  email: serhii-mask@gmail.com
 -  telephone: +38(096)550-66-00
 -  linkedin: [www.linkedin.com/in/serhii-m](Serhii Mykalo)
 -  github: serhii-mask
+-  diskord: Serhii Mykalo (@serhii-mask)
+
+---
 
 ## About myself
 
