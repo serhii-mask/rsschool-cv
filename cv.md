@@ -50,3 +50,17 @@ function oddOrEven(array) {
    return total % 2 === 0 ? "even" : "odd";
 }
 ```
+
+## Experience
+
+-  [WebStudia](https://hdrezka.co/series/comedy/34383-velikaya-2020.html#t:111-s:2-e:5) [HTML, CSS, JS]
+
+## Education
+
+-  **Bachelor "Geodesy and Land Survey",** _National Univerity "Lviv Polytehnic"_
+-  **Junior specialist "Land Management",** _Volodymyr\-Volynsky Agrotechnical College_
+
+## Lenguages
+
+-  Ukrainian: native
+-  English: elementary (under study)
